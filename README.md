@@ -1,6 +1,3 @@
-![Student.](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/288389152_1108361623046118_2791251834042405863_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEOurKgRDBitGCLkCNBGlfbhA6b53WnsEeEDpvndaewRyNZcqZ4RvqFQiFhKm9tuOY3jFr7_-VjXwfO60qt5K3Q&_nc_ohc=o-uk_Kz5-0EAX_VSVOZ&_nc_ht=scontent.fdac20-1.fna&oh=00_AT8ixQhxIR99av6Hsbfyy5TPwryPx-4BwFUJZKHSM9u3gA&oe=62E06167)
-
-
 ### Hi there 👋, I'm Faiza.
 #### Student.
 
