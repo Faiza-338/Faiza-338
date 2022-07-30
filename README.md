@@ -26,17 +26,7 @@
       Contributed to
         <a href="/symfony/symfony" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.highlights_click&quot;,&quot;payload&quot;:{&quot;scoped_org_id&quot;:null,&quot;target_type&quot;:&quot;REPOSITORY&quot;,&quot;target_url&quot;:&quot;symfony/symfony.git&quot;,&quot;originating_url&quot;:&quot;https://github.com/fabpot&quot;,&quot;user_id&quot;:109524293}}" data-hydro-click-hmac="c05373cb97ca1d978fc658b77e85eb19a4636cbe9916614cfb5377eb4b75529b" data-hovercard-type="repository" data-hovercard-url="/symfony/symfony/hovercard" class="text-bold css-truncate css-truncate-target" style="max-width: 228px;">symfony/symfony</a>,
         <a href="/symfony/symfony-docs" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.highlights_click&quot;,&quot;payload&quot;:{&quot;scoped_org_id&quot;:null,&quot;target_type&quot;:&quot;REPOSITORY&quot;,&quot;target_url&quot;:&quot;symfony/symfony-docs.git&quot;,&quot;originating_url&quot;:&quot;https://github.com/fabpot&quot;,&quot;user_id&quot;:109524293}}" data-hydro-click-hmac="88399e3f49fec09d984788dee54b731fd0d09e3e2e57379bb11f3009eea4de06" data-hovercard-type="repository" data-hovercard-url="/symfony/symfony-docs/hovercard" class="text-bold css-truncate css-truncate-target" style="max-width: 228px;">symfony/symfony-docs</a>,
-        <a href="/symfony-cli/symfony-cli" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.highlights_click&quot;,&quot;payload&quot;:{&quot;scoped_org_id&quot;:null,&quot;target_type&quot;:&quot;REPOSITORY&quot;,&quot;target_url&quot;:&quot;symfony-cli/symfony-cli.git&quot;,&quot;originating_url&quot;:&quot;https://github.com/fabpot&quot;,&quot;user_id&quot;:109524293}}" data-hydro-click-hmac="34279b922d31dc13791db04635b07df5ad9f407827d5173bc14bc318706f17dc" data-hovercard-type="repository" data-hovercard-url="/symfony-cli/symfony-cli/hovercard" class="text-bold css-truncate css-truncate-target" style="max-width: 228px;">symfony-cli/symfony-cli</a>
-        <span class="no-wrap">
-          and 220 other
-          repositories
-        </span>
-    </div>
-  </div>
-
-
-        </div>
-
+        
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiza-338)](https://github.com/anuraghazra/github-readme-stats)
 
