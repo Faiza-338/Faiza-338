@@ -3,7 +3,7 @@
 
 
 
-  I’m currently learning C++.<br>
+  I’m currently learning Data Structure.<br>
   I’m looking to collaborate on github.<br>
   Mail: faizakhandoker2021@gmail.com<br> 
 
