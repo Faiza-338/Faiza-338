@@ -3,9 +3,9 @@
 
 
 
-  I’m currently learning Data Structure.<br>
+  I’m currently learning Python.<br>
   I’m looking to collaborate on github.<br>
-  Mail: faizakhandoker2021@gmail.com<br> 
+  Mail: faizakhandoker103@gmail.com<br> 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Faiza-338) <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
