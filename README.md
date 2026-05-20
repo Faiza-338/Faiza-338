@@ -2,7 +2,7 @@
 #### Student.
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter
+- 🌱 &nbsp;I’m currently learning Web Development. 
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Painting 🖌️
 
 ###
