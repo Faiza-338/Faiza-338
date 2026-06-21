@@ -1,12 +1,69 @@
-### Hi there 👋, I'm Faiza.
-#### Student.
+# Hi there 👋, I'm Faiza Khandoker Fama! 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Machine+Learning+Enthusiast;UI%2FUX+%26+Graphic+Designer;Computer+Engineering+Student" alt="Typing SVG" />
+</div>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Web Development. 
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Painting 🖌️
 
+I am a motivated and detail-oriented Computer Science student with a strong dual-focus on machine learning and full-stack software engineering. I am passionate about exploring emerging data-driven models, building scalable applications, and crafting intuitive user experiences.
+
+### 💼 Work Background & Experience
+
+* **Junior Software Engineer** at **Logical Triangle Ltd.** (January 2026 – Present)
+  * Demonstrated analytical ability, problem-solving skills, and a strong commitment to learning.
+  * Working effectively both independently and as part of a team.
+* **Software Engineering Intern** at **Logical Triangle Ltd.** (January 2024 – December 2025)
+  * Actively supported software development activities, UI/UX design, and application testing.
+  * Managed project documentation and maintained a high standard of professionalism and integrity.
+* **Professional Artist & Business Owner**, managing a personal brand to showcase and sell original artworks.
+
 ###
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+### 🎯 My Goals
+
+I am eager to contribute to research, teaching, and curriculum development by advancing intelligent systems and applied AI methodologies. My long-term objective is to conduct impactful research and mentor others while continuing to build practical, scalable, and research-oriented machine learning solutions.
+
+### 🚀 What I'm Currently Working On
+
+I am actively developing my **Personal Portfolio Website** (`My-Portfolio`) from scratch to showcase my journey as a developer and designer. 
+* **Tech Stack:** HTML5, CSS3, JavaScript, and Tailwind CSS.
+* **What I've done so far:** I have successfully designed and developed the **Homepage** and the **About Me** page.
+* **What's next (To-Do):** I am currently working on adding a dedicated **Portfolio page** to display my software and design projects, a **Blog page** for technical write-ups, and a functional **Contact Me page**.
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Machine Learning & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Design & UI/UX**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faiza-338&show_icons=true&theme=radium" alt="Faiza's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faiza-338&theme=radium" alt="Faiza's GitHub Streak" width="48%" />
+</div>
 
 <div class="col-12 col-lg-6 d-flex flex-column pr-lg-5">
           <h5 class="mb-3 text-normal">
@@ -14,10 +71,7 @@
               overview
           </h5>
           
-  <div class="d-flex mb-2">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo flex-shrink-0 color-fg-muted mt-1 mr-2">
-    <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
-</svg>
+
 
 ###
 
@@ -54,28 +108,15 @@
   <img width="12" />
 </div>
 
-###
+### 📫 Let's Connect!
 
-<div align="left">
-  <a href="https://instagram.com/___astrophile__________">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<p>
+  <a href="mailto:faizakhandoker2021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.gg/mQ9gy9aw">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:faizakhandoker2021@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/faiza-khandoker-50b63433b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+</p>
 
 
-
-
-
-###
 
 
 ###
