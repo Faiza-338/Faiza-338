@@ -29,8 +29,7 @@ I am eager to contribute to research, teaching, and curriculum development by ad
 
 I am actively developing my **Personal Portfolio Website** (`My-Portfolio`) from scratch to showcase my journey as a developer and designer. 
 * **Tech Stack:** HTML5, CSS3, JavaScript, and Tailwind CSS.
-* **What I've done so far:** I have successfully designed and developed the **Homepage** and the **About Me** page.
-* **What's next (To-Do):** I am currently working on adding a dedicated **Portfolio page** to display my software and design projects, a **Blog page** for technical write-ups, and a functional **Contact Me page**.
+* **What I've done so far:** I have successfully designed and developed the **Homepage** and the **About Me** page.** I have also added a dedicated **Portfolio page** to display my software and design projects, a **Blog page** for technical write-ups, and a functional **Contact Me page**.
 
 ### 🛠️ Tech Stack & Tools
 
